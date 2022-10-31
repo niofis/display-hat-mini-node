@@ -2,7 +2,7 @@
 
 This library is a wrapper for the [display-hat-mini-driver](https://github.com/niofis/display-hat-min-driver), that allows the use of the [Pimoroni Display HAT Mini](https://shop.pimoroni.com/products/display-hat-mini?variant=39496084717651).
 
-To install and build, please install the latest [Rust](https://www.rust-lang.org) language version. Which is required by [Neon](https://github.com/neon-bindings/neon), the bindings library used to enable access to `display-hat-mini-driver` from node.
+To install and build, please install the latest [Rust](https://www.rust-lang.org) language version. Which is required by [Neon](https://github.com/neon-bindings/neon), the bindings library used to enable access to `display-hat-mini-driver` from [node.js](https://nodejs.org).
 
 ## Usage
 
